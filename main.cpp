@@ -15,6 +15,9 @@ int main(){
 	
 	cout << a_ptr[0] << ", and " << a_ptr[3];
 	
+
+
+
 	delete [] a_ptr;
 	return 0;
 }
