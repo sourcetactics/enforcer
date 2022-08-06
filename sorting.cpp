@@ -61,7 +61,7 @@ int main()
 		}	
 		
 	}
-	
+	//s
 	cout << sort_2[1];
 	return 0;
 }
